@@ -10,6 +10,8 @@
 .menu>img {
     padding-top: 20px;
     padding-bottom: 10px;
+    width: 240px;
+    height: 240px;
 }
 
 .first-1 {
@@ -55,6 +57,7 @@ h1 {
 
 body {
     font-family: 'Lato', sans-serif;
+    margin: 0px;
 }
 
 svg {
