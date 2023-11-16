@@ -1,0 +1,85 @@
+.menu {
+    display: inline-block;
+    text-align: left;
+    background-color: rgba(253, 249, 217, 1);
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.menu>img {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.first-1 {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.second-2 {
+    display: -webkit-box;
+    width: 240px;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    color: #000;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0px;
+}
+
+.cards {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 36px;
+}
+
+h1 {
+    color: #000000;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 446px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+svg {
+    float: right;
+    margin: 0px;
+    margin-top: 12px;
+    margin-bottom: 38px;
+}
+
+.preis {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 38px;
+}
+
+.first-screen {
+    width: 1200px;
+    height: 556px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: #FDF9D9;
+    text-align: left;
+}
